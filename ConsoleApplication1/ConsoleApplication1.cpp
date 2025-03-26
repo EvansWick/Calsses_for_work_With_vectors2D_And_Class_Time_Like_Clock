@@ -344,8 +344,8 @@ int Vector2D::ObjectNum2 = 0;
 int main()
 {
    setlocale(LC_ALL, "Russian");
-   //Time::TimeInterface();
-   Vector2D::VectorInterface();
+   Time::TimeInterface();
+   //Vector2D::VectorInterface();
 }
 
 
